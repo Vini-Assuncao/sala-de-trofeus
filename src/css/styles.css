@@ -1,0 +1,39 @@
+body {
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.team-header-card {
+  padding: 10px;
+  border-radius: 8px;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.badge-uf {
+  font-size: 0.75rem;
+  vertical-align: middle;
+}
+
+.category-header {
+  background-color: #f1f3f5;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  color: #495057;
+}
+
+.trophy-winner {
+  font-weight: 700;
+  background-color: rgba(255, 215, 0, 0.18) !important;
+}
+
+.trophy-count {
+  font-size: 1.1rem;
+}
+
+.empty-slot {
+  color: #adb5bd;
+  font-style: italic;
+}

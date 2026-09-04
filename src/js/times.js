@@ -4,7 +4,7 @@ const times = [
     nome: "São Paulo",
     sigla_estado: "SP",
     cor_rgb: "rgb(220, 0, 0)",
-    emoji_bandeira: "🇾🇪", // Iêmen (Vermelho, Branco e Preto)
+    emoji_bandeira: "😇", 
     titulos: {
       estadual: 22,
       brasileirao: 6,
@@ -21,16 +21,16 @@ const times = [
     nome: "Palmeiras",
     sigla_estado: "SP",
     cor_rgb: "rgb(0, 100, 0)",
-    emoji_bandeira: "🇮🇹", // Itália (Verde, Branco e Vermelho - Origem Palestra Itália)
+    emoji_bandeira: "🐖", 
     titulos: {
-      estadual: 26,
+      estadual: 27,
       brasileirao: 12,
       copa_do_brasil: 4,
       supercopa_do_brasil: 1,
       sul_americana: 0,
       libertadores: 3,
       recopa_sul_americana: 1,
-      mundial: 1 // Copa Rio 1951
+      mundial: 0 // Copa Rio 1951
     }
   },
   {
@@ -38,10 +38,10 @@ const times = [
     nome: "Flamengo",
     sigla_estado: "RJ",
     cor_rgb: "rgb(200, 0, 0)",
-    emoji_bandeira: "🇦🇱", // Albânia (Vermelho e Preto)
+    emoji_bandeira: "🐦‍⬛", 
     titulos: {
-      estadual: 38,
-      brasileirao: 8,
+      estadual: 40,
+      brasileirao: 9,
       copa_do_brasil: 5,
       supercopa_do_brasil: 2,
       sul_americana: 0,
@@ -55,9 +55,9 @@ const times = [
     nome: "Grêmio",
     sigla_estado: "RS",
     cor_rgb: "rgb(0, 128, 255)",
-    emoji_bandeira: "🇪🇪", // Estônia (Azul, Preto e Branco)
+    emoji_bandeira: "🤺",
     titulos: {
-      estadual: 43,
+      estadual: 44,
       brasileirao: 2,
       copa_do_brasil: 5,
       supercopa_do_brasil: 1,
@@ -72,7 +72,7 @@ const times = [
     nome: "Corinthians",
     sigla_estado: "SP",
     cor_rgb: "rgb(20, 20, 20)",
-    emoji_bandeira: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", // Inglaterra (Origem do nome Corinthians / Preto e Branco)
+    emoji_bandeira: "🦅", 
     titulos: {
       estadual: 30,
       brasileirao: 7,
@@ -89,7 +89,7 @@ const times = [
     nome: "Santos",
     sigla_estado: "SP",
     cor_rgb: "rgb(255, 255, 255)",
-    emoji_bandeira: "🏳️", // Bandeira Branca (Alvinegro Praiano)
+    emoji_bandeira: "🐳", 
     titulos: {
       estadual: 22,
       brasileirao: 8,
@@ -106,9 +106,9 @@ const times = [
     nome: "Cruzeiro",
     sigla_estado: "MG",
     cor_rgb: "rgb(0, 51, 153)",
-    emoji_bandeira: "🇸🇴", // Somália (Azul com Estrela Branca)
+    emoji_bandeira: "🦊", 
     titulos: {
-      estadual: 38,
+      estadual: 39,
       brasileirao: 4,
       copa_do_brasil: 6,
       supercopa_do_brasil: 0,
@@ -123,7 +123,7 @@ const times = [
     nome: "Atlético Mineiro",
     sigla_estado: "MG",
     cor_rgb: "rgb(30, 30, 30)",
-    emoji_bandeira: "🏁", // Bandeira Quadriculada (Preto e Branco)
+    emoji_bandeira: "🐓", 
     titulos: {
       estadual: 49,
       brasileirao: 3,
@@ -140,7 +140,7 @@ const times = [
     nome: "Internacional",
     sigla_estado: "RS",
     cor_rgb: "rgb(230, 0, 0)",
-    emoji_bandeira: "🇨🇭", // Suíça (Vermelho e Branco)
+    emoji_bandeira: "🔴", 
     titulos: {
       estadual: 45,
       brasileirao: 3,
@@ -157,7 +157,7 @@ const times = [
     nome: "Fluminense",
     sigla_estado: "RJ",
     cor_rgb: "rgb(128, 0, 32)",
-    emoji_bandeira: "🇧🇮", // Burundi (Verde, Branco e Vermelho/Grena)
+    emoji_bandeira: "🛡️", 
     titulos: {
       estadual: 33,
       brasileirao: 4,
@@ -174,7 +174,7 @@ const times = [
     nome: "Vasco da Gama",
     sigla_estado: "RJ",
     cor_rgb: "rgb(10, 10, 10)",
-    emoji_bandeira: "🇵🇹", // Portugal (Origem do clube e Cruz de Malta)
+    emoji_bandeira: "⛵", 
     titulos: {
       estadual: 24,
       brasileirao: 4,
@@ -191,7 +191,7 @@ const times = [
     nome: "Botafogo",
     sigla_estado: "RJ",
     cor_rgb: "rgb(15, 15, 15)",
-    emoji_bandeira: "🏴", // Bandeira Preta (Estrela Solitária Alvinegra)
+    emoji_bandeira: "⭐", 
     titulos: {
       estadual: 21,
       brasileirao: 2,
@@ -208,9 +208,9 @@ const times = [
     nome: "Bahia",
     sigla_estado: "BA",
     cor_rgb: "rgb(0, 85, 164)",
-    emoji_bandeira: "🇫🇷", // França (Azul, Branco e Vermelho)
+    emoji_bandeira: "🦸",
     titulos: {
-      estadual: 50,
+      estadual: 51,
       brasileirao: 2,
       copa_do_brasil: 0,
       supercopa_do_brasil: 0,
@@ -225,9 +225,9 @@ const times = [
     nome: "Fortaleza",
     sigla_estado: "CE",
     cor_rgb: "rgb(0, 40, 120)",
-    emoji_bandeira: "🇨🇷", // Costa Rica (Azul, Branco e Vermelho)
+    emoji_bandeira: "🦁", 
     titulos: {
-      estadual: 46,
+      estadual: 47,
       brasileirao: 0,
       copa_do_brasil: 0,
       supercopa_do_brasil: 0,
@@ -242,7 +242,7 @@ const times = [
     nome: "Athletico-PR",
     sigla_estado: "PR",
     cor_rgb: "rgb(200, 16, 46)",
-    emoji_bandeira: "🇦🇴", // Angola (Vermelho e Preto)
+    emoji_bandeira: "🌪️", 
     titulos: {
       estadual: 28,
       brasileirao: 1,
@@ -259,7 +259,7 @@ const times = [
     nome: "Vitória",
     sigla_estado: "BA",
     cor_rgb: "rgb(220, 0, 0)",
-    emoji_bandeira: "🇹🇹", // Trinidad e Tobago (Vermelho e Preto)
+    emoji_bandeira: "🦁", 
     titulos: {
       estadual: 30,
       brasileirao: 0,
@@ -276,7 +276,7 @@ const times = [
     nome: "Red Bull Bragantino",
     sigla_estado: "SP",
     cor_rgb: "rgb(220, 0, 40)",
-    emoji_bandeira: "🇦🇹", // Áustria (Vermelho e Branco / Origem Red Bull)
+    emoji_bandeira: "🐂🪽", 
     titulos: {
       estadual: 1,
       brasileirao: 0,
@@ -293,7 +293,7 @@ const times = [
     nome: "Juventude",
     sigla_estado: "RS",
     cor_rgb: "rgb(0, 128, 64)",
-    emoji_bandeira: "🇳🇬", // Nigéria (Verde e Branco)
+    emoji_bandeira: "🦜", 
     titulos: {
       estadual: 1,
       brasileirao: 0,
@@ -310,9 +310,9 @@ const times = [
     nome: "Ceará",
     sigla_estado: "CE",
     cor_rgb: "rgb(20, 20, 20)",
-    emoji_bandeira: "🏴‍☠️", // Bandeira Pirata / Alvinegro Vozão
+    emoji_bandeira: "👴", 
     titulos: {
-      estadual: 46,
+      estadual: 47,
       brasileirao: 0,
       copa_do_brasil: 0,
       supercopa_do_brasil: 0,
@@ -327,7 +327,7 @@ const times = [
     nome: "Mirassol",
     sigla_estado: "SP",
     cor_rgb: "rgb(255, 204, 0)",
-    emoji_bandeira: "🇧🇷", // Ucrânia (Amarelo e Azul)
+    emoji_bandeira: "🦁", 
     titulos: {
       estadual: 0,
       brasileirao: 0,

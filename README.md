@@ -26,7 +26,7 @@ meu-projeto/
 ├── index.html
 ├── src/
 │   ├── css/
-│   │   └── style.css       ← CSS customizado
+│   │   └── styles.css       ← CSS customizado
 │   └── js/
 │       └── script.js       ← Lógica da aplicação
 │       └── times.js        ← Dados dos times

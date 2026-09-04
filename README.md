@@ -1,5 +1,3 @@
-# titulos-brasileirao
-
 # 🏆 Sala de Troféus
 
 O **Sala de Troféus** é uma aplicação web interativa que permite comparar simultaneamente a galeria de títulos de até 4 clubes do Campeonato Brasileiro. A ferramenta compara a hegemonia e o histórico dos times em torneios regionais, nacionais e internacionais.

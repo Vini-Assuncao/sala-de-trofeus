@@ -37,3 +37,8 @@ body {
   color: #adb5bd;
   font-style: italic;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
